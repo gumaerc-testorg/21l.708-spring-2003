@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: '"Sliding Doors" Summary'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-708-technologies-of-humanism-spring-2003/cd7d8e3a5aac6dd58702265fb8400daf_swslidingdoorssummary.pdf
+file: /media/courses/21l-708-technologies-of-humanism-spring-2003/cd7d8e3a5aac6dd58702265fb8400daf_swslidingdoorssummary.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: swslidingdoorssummary.pdf
 uid: cd7d8e3a-5aac-6dd5-8702-265fb8400daf

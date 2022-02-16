@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Assignment 10
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-708-technologies-of-humanism-spring-2003/4443431229251116697b51909b5d0368_assignment10.pdf
+file: /media/courses/21l-708-technologies-of-humanism-spring-2003/4443431229251116697b51909b5d0368_assignment10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment10.pdf
 uid: 44434312-2925-1116-697b-51909b5d0368
