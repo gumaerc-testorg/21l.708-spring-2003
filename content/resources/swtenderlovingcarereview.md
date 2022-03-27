@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5e5e98f-97b3-488f-bf47-2f9d18fea4ca
 resourcetype: Document
 title: swtenderlovingcarereview.pdf
 uid: ad470bca-d5f7-a25d-e7b9-deb329b1adb2

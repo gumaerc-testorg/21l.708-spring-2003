@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5e5e98f-97b3-488f-bf47-2f9d18fea4ca
 resourcetype: Document
 title: swdanielewskiassgn4.pdf
 uid: cc0210cb-bd63-b1cc-459c-d9aa1cf163a7

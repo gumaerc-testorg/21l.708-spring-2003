@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5e5e98f-97b3-488f-bf47-2f9d18fea4ca
 resourcetype: Document
 title: swrunlolaruncritique.pdf
 uid: 4b862e72-5f01-af98-80da-d9d1b2b5c2a3

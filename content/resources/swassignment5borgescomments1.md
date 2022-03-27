@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5e5e98f-97b3-488f-bf47-2f9d18fea4ca
 resourcetype: Document
 title: swassignment5borgescomments1.pdf
 uid: 2e73920e-b5d3-6e4b-ea6d-9fe001d4c159

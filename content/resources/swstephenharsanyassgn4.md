@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5e5e98f-97b3-488f-bf47-2f9d18fea4ca
 resourcetype: Document
 title: swstephenharsanyassgn4.pdf
 uid: bf9613c4-a53d-deb7-a058-df91ad2fb0d5
