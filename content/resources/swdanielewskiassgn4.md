@@ -5,6 +5,7 @@ file: /courses/21l-708-technologies-of-humanism-spring-2003/cc0210cbbd63b1cc459c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: swdanielewskiassgn4.pdf
 uid: cc0210cb-bd63-b1cc-459c-d9aa1cf163a7
 ---
 On Mark Z. Danielwski's House of Leaves
-

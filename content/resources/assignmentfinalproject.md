@@ -5,6 +5,7 @@ file: /courses/21l-708-technologies-of-humanism-spring-2003/78f673aeeb2f48e4c354
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

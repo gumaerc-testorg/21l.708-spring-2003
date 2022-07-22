@@ -5,6 +5,7 @@ file: /courses/21l-708-technologies-of-humanism-spring-2003/7002cb19cffc37066b2b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignmentfinalproject.pdf
 uid: 7002cb19-cffc-3706-6b2b-93997185702b
 ---
 Assignment Final Project
-

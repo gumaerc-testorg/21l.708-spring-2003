@@ -5,6 +5,7 @@ file: /courses/21l-708-technologies-of-humanism-spring-2003/d93006adc6906fc56aac
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: swrunlolarun.pdf
 uid: d93006ad-c690-6fc5-6aac-80c01485a44b
 ---
 "Run Lola Run"
-

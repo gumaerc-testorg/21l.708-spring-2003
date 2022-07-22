@@ -5,6 +5,7 @@ file: /courses/21l-708-technologies-of-humanism-spring-2003/ad470bcad5f7a25de7b9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: swtenderlovingcarereview.pdf
 uid: ad470bca-d5f7-a25d-e7b9-deb329b1adb2
 ---
 Tender Loving Care
-
