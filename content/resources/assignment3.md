@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment 3
 file: /courses/21l-708-technologies-of-humanism-spring-2003/e93e0ac2c8698fcece06895f4dfcfb21_assignment3.pdf
+file_size: 63436
 file_type: application/pdf
 learning_resource_types:
 - Assignments

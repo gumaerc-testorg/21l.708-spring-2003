@@ -2,6 +2,7 @@
 content_type: resource
 description: Zettels Traum, 1. Kapitel
 file: /courses/21l-708-technologies-of-humanism-spring-2003/fecab209fdff3f7c7d4f2eefe730ebf0_swcesarvillarreal.pdf
+file_size: 35067
 file_type: application/pdf
 learning_resource_types:
 - Assignments

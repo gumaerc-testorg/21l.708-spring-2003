@@ -2,6 +2,7 @@
 content_type: resource
 description: Tender Loving Care
 file: /courses/21l-708-technologies-of-humanism-spring-2003/ad470bcad5f7a25de7b9deb329b1adb2_swtenderlovingcarereview.pdf
+file_size: 59560
 file_type: application/pdf
 learning_resource_types:
 - Assignments
