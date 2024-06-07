@@ -2,6 +2,7 @@
 content_type: resource
 description: Borges - The Garden of the Forking Paths
 file: /courses/21l-708-technologies-of-humanism-spring-2003/2e73920eb5d36e4bea6d9fe001d4c159_swassignment5borgescomments1.pdf
+file_size: 43420
 file_type: application/pdf
 learning_resource_types:
 - Assignments

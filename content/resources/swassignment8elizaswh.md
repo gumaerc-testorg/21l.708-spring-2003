@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment 8: ELIZA'
 file: /courses/21l-708-technologies-of-humanism-spring-2003/98a21ba0c341a66320d7514c3dac16ce_swassignment8elizaswh.pdf
+file_size: 52129
 file_type: application/pdf
 learning_resource_types:
 - Assignments
