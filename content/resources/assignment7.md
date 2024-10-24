@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 7: Soundscapes'
-file: /courses/21l-708-technologies-of-humanism-spring-2003/baf886373774efc781fb7058a9a73725_assignment7.pdf
+file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/baf886373774efc781fb7058a9a73725_assignment7.pdf
 file_size: 157816
 file_type: application/pdf
 learning_resource_types:
