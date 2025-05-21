@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Critique of "Run Lola Run"
-file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/4b862e725f01af9880dad9d1b2b5c2a3_swrunlolaruncritique.pdf
+file: /courses/21l-708-technologies-of-humanism-spring-2003/4b862e725f01af9880dad9d1b2b5c2a3_swrunlolaruncritique.pdf
 file_size: 101460
 file_type: application/pdf
 learning_resource_types:
