@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '"Sliding Doors" Summary'
-file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/cd7d8e3a5aac6dd58702265fb8400daf_swslidingdoorssummary.pdf
+file: /courses/21l-708-technologies-of-humanism-spring-2003/cd7d8e3a5aac6dd58702265fb8400daf_swslidingdoorssummary.pdf
 file_size: 53938
 file_type: application/pdf
 learning_resource_types:
