@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Syllabus
-file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/6964d675bbd7d088288c137cbe97117e_syllabus.pdf
+file: /courses/21l-708-technologies-of-humanism-spring-2003/6964d675bbd7d088288c137cbe97117e_syllabus.pdf
 file_size: 745661
 file_type: application/pdf
 learning_resource_types: []

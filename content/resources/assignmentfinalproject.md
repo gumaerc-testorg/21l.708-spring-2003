@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/78f673aeeb2f48e4c35468753766d6cb_assignmentfinalproject.pdf
+file: /courses/21l-708-technologies-of-humanism-spring-2003/78f673aeeb2f48e4c35468753766d6cb_assignmentfinalproject.pdf
 file_size: 131791
 file_type: application/pdf
 learning_resource_types:
