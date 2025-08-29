@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: In Regards to HOPSCOTCH by Julio Cortazar
-file: /courses/21l-708-technologies-of-humanism-spring-2003/bf9613c4a53ddeb7a058df91ad2fb0d5_swstephenharsanyassgn4.pdf
+file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/bf9613c4a53ddeb7a058df91ad2fb0d5_swstephenharsanyassgn4.pdf
 file_size: 39527
 file_type: application/pdf
 learning_resource_types:

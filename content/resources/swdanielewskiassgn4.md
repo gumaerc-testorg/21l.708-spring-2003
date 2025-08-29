@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: On Mark Z. Danielwski's House of Leaves
-file: /courses/21l-708-technologies-of-humanism-spring-2003/cc0210cbbd63b1cc459cd9aa1cf163a7_swdanielewskiassgn4.pdf
+file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/cc0210cbbd63b1cc459cd9aa1cf163a7_swdanielewskiassgn4.pdf
 file_size: 38040
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: In response to "Zettels Traum, 1. Kapitel"
-file: /courses/21l-708-technologies-of-humanism-spring-2003/f9a596fad747863df31cdaea3ae76864_swstephenharsany.pdf
+file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/f9a596fad747863df31cdaea3ae76864_swstephenharsany.pdf
 file_size: 44989
 file_type: application/pdf
 learning_resource_types:
