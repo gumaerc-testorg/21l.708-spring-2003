@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 6: First Writing Assignment'
-file: /courses/21l-708-technologies-of-humanism-spring-2003/dfde71ece37f3a2e49bc73787b4c35a0_assignment6.pdf
+file: /ol-ocw-studio-app/courses/21l-708-technologies-of-humanism-spring-2003/dfde71ece37f3a2e49bc73787b4c35a0_assignment6.pdf
 file_size: 31525
 file_type: application/pdf
 learning_resource_types:
